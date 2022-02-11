@@ -29,8 +29,6 @@
 ```
 Install python 2.9 or above from here https://www.python.org/downloads/
 
-Extract "Discord Tools.rar"
-
 Run "discordtools.exe"
 ```
 
